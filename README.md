@@ -23,3 +23,15 @@ Analista de FP&A com 3 anos de experiência em automação de processos, desenvo
 - Análise de dados: Modelagem de dados, KPIs, storytelling com dados;
 - Outros conhecimentos: Financeiro, indicadores de performance;
 
+
+
+🌍 English Version
+
+FP&A Analyst with 3 years of experience in automating financial processes and building ETL pipelines using SQL and Python, integrating data across Databricks and Power BI environments.
+
+- 🔭 Currently working as an FP&A Analyst, supporting strategic decision-making through data
+- 🌱 Studying Business Intelligence and Data Analytics to enhance my skills
+- 👯 Happy to collaborate on SQL scripts and interactive dashboards
+- 💬 Feel free to reach out to talk about SQL — I enjoy optimizing queries and exploring data
+- 📫 Contact me: www.linkedin.com/in/maria-paula-prandt
+
