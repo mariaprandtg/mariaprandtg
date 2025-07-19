@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 -->
 💼 Sobre mim
 
-Analista de FP&A com 3 anos de experiência em automação de processos, desenvolvimento de pipelines de ETL com SQL e Python, integrando dados com Databricks e Power BI. 
+Analista com 3 anos de experiência em automação de processos, análise de dados e desenvolvimento de pipelines de ETL com SQL e Python, integrando dados com Databricks e Power BI. 
 
 - 🔭 Atualmente trabalhando com FP&A, apoiando decisões estratégicas através de dados;
 - 🌱 Estou estudando mais sobre Business Intelligence e Data Analytics;
@@ -27,7 +27,7 @@ Analista de FP&A com 3 anos de experiência em automação de processos, desenvo
 
 🌍 English Version
 
-FP&A Analyst with 3 years of experience in automating financial processes and building ETL pipelines using SQL and Python, integrating data across Databricks and Power BI environments.
+Analyst with 3 years of experience in automating financial processes and building ETL pipelines using SQL and Python, integrating data across Databricks and Power BI environments.
 
 - 🔭 Currently working as an FP&A Analyst, supporting strategic decision-making through data
 - 🌱 Studying Business Intelligence and Data Analytics to enhance my skills
